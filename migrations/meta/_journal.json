@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1726401778036,
+      "tag": "0000_chilly_miss_america",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1726402019538,
+      "tag": "0001_talented_morlun",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1726406022500,
+      "tag": "0002_cloudy_earthquake",
+      "breakpoints": true
+    }
+  ]
+}
